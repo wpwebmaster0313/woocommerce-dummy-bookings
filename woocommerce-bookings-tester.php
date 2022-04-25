@@ -3,7 +3,7 @@
  * Plugin Name: WooCommerce Bookings Tester
  * Description: Boost WooCommerce Booking Speed
  * Version: 1.0.0
- * Author: Olek
+ * Author: wpwebmaster0313
  * Text Domain: woocommerce-bookings-tester
  * Tested up to: 5.8
  * WC tested up to: 5.9
